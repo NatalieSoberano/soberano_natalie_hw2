@@ -1,0 +1,47 @@
+body
+{
+  background-color: lightblue;
+}
+
+h1
+{
+  text-align: center;
+  color: navy;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 100px;
+}
+
+h2
+{
+  text-align: left;
+  color: navy;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 50px;
+  margin-left: 40px;
+}
+
+SVG
+{
+  width: 400px;
+  height: 400px;
+  margin-left: 80px;
+}
+
+#sitecontainer p
+{
+  float: right;
+  width: 400px;
+  height: 400px;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 25px;
+  margin-right: 100px;
+  margin-top: 100px;
+
+}
+
+#openingp
+{
+  text-align: center;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 25px;
+}
